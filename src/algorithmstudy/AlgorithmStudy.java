@@ -4,6 +4,7 @@
  */
 package algorithmstudy;
 
+
 /**
  *
  * @author shiggins
@@ -105,6 +106,10 @@ public class AlgorithmStudy {
         
         System.out.println(areConnected(7, 2));
         
-        printArray();
+        printArray();        
+        
+        int V = StdIn.readInt();
+        
+        
     }
 }
